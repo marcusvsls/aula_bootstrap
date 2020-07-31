@@ -1,0 +1,34 @@
+*{
+	font-family: calibri;
+}
+
+.navbar{
+	background-color: #67f08c;
+}
+
+.quem-somos{
+	background-color: grey;
+}
+
+.parceiros{
+	background-color:#fc8890;
+}
+
+.servicos{
+	background-color: #9590f0;
+}
+
+.margin{
+	padding: 20px;
+
+}
+
+.collapse li{
+	font-size: 22px;
+}
+
+.estilo{
+	color: black; 
+	font-weight:bold;
+	margin-top: 20px; 
+}
